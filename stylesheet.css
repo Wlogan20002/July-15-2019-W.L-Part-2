@@ -1,6 +1,6 @@
 h1 {color: ;}
-h2 {color: black;}
-body {background-color: white;}
+h2 {color: #f90806;}
+body {background-color:white;}
 
 p {color: black;}
 
@@ -9,4 +9,12 @@ p {color: black;}
 
 div {color: black;}
 
-p {background-color: yellow}
+h2 {background-color: black;}
+
+p{
+font-family: 'Poppins', sans-serif;
+}
+
+li{
+font-family: 'Darker Grotesque', sans-serif;
+}
